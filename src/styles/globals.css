@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-base-300;
+}
+
+body {
+  @apply p-8 min-h-screen;
+}
