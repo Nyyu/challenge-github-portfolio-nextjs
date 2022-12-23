@@ -1,4 +1,4 @@
-<h1 align="center"> Github Portfolio </h1>
+<h1 align="center"> Github Portfolio Challenge </h1>
 
 <br>
 
